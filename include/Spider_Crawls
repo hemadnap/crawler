@@ -4,10 +4,10 @@ from scrapy.contrib.spiders import XMLFeedSpider
 from search ngine.items import Spider_Crawls
 
 class SpiderCrawls():
-	id = http://tomascaufriezsanchez.com/'
-	name = 'tomascaufriezsanchez.com/'
-	allowed_domains = ['tomascaufriezsanchez.com/']
-	start_urls = [http://tomascaufriezsanchez.com/']
+	id = '
+	name = ''
+	allowed_domains = ['']
+	start_urls = []
 	description = field()
 
 	void spidercrawls(void)
@@ -21,7 +21,7 @@ class SpiderCrawls():
     spider.Initialize("www.chilkatsoft.com");
 
     //  Add the 1st URL:
-    spider.AddUnspidered("http:/http://tomascaufriezsanchez.com/");
+    spider.AddUnspidered("");
 
     //  Begin crawling the site by calling CrawlNext repeatedly.
     long i;
